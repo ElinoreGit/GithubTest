@@ -19,6 +19,8 @@ public class GithubTest {
         System.out.println("Hello world!");
         System.out.println("Testar lägga till en rad här!!!!");
         System.out.println("Testar lägga till en rad här???");
+        
+        String testvariabel = "testis";
     }
 
 }
