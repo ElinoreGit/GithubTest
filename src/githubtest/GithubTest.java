@@ -16,9 +16,7 @@ public class GithubTest {
      */
     public static void main(String[] args) {
         
-        System.out.println("Hello world!");
-
-        System.out.println("Testar lägga till en rad här!");
+        System.out.println("Testar lägga till en rad här!!!!");
     }
     
 }
