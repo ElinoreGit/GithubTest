@@ -15,8 +15,10 @@ public class GithubTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+
+        System.out.println("Hello world!");
         System.out.println("Testar lägga till en rad här!!!!");
+        System.out.println("Testar lägga till en rad här???");
     }
-    
+
 }
