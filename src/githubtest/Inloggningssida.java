@@ -11,4 +11,5 @@ package githubtest;
  */
 public class Inloggningssida {
     private String user = "Pelle";
+    private int password = 123;
 }
